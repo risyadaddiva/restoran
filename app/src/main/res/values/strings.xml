@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pizza Rest</string>
+    <string name="store">Resto</string>
+    <string name="name">Your Name</string>
+    <string name="isinama">Isi Nama Kamu</string>
+
+    <string-array name="lokasi">
+        <item>Cibiru</item>
+        <item>Cihampelas</item>
+        <item>Gedebage</item>
+        <item>Ciroyom</item>
+        <item>Cimahi</item>
+        <item>Jatinangor</item>
+    </string-array>
+    <string name="your_name">Your Name</string>
+    <string name="please_fill">Please fill your name</string>
+    <string name="hello">Halo, Richard</string>
+    <string name="lokasii">Cihampelas\n</string>
+    <string name="lokasi_text">Lokasi</string>
+    <string name="map_text">Lihat di Peta</string>
+    <string name="pesan">Pesan Besok</string>
+    <string name="Kembali">Kembali</string>
+    <string name="desc_pizza">Pepperoni pizza adalah pizza yang memiliki  topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="desc_spageti">\nSpaghetti adalah salah satu jenis pasta yang paling populer di dunia. Ini biasanya terbuat dari gandum dan air, kemudian direbus hingga matang. Spaghetti sering disajikan dengan berbagai saus, seperti saus tomat, saus daging, atau saus lainnya. Di Italia, negara asalnya, cara tradisional menyajikan spaghetti adalah dengan mencampurnya dengan saus tomat atau minyak zaitun, dan kadang-kadang ditaburi keju parmesan</string>
+    <string name="desc_burger">Burger adalah hidangan yang terdiri dari patty daging (biasanya daging sapi) yang dibakar atau digoreng, kemudian ditempatkan di dalam sepotong roti bundar yang disebut bun. Burger biasanya disajikan dengan berbagai tambahan seperti selada, tomat, bawang, saus, dan keju. Ada banyak variasi burger, mulai dari yang sederhana seperti burger hamburger klasik hingga burger dengan berbagai inovasi dan rasa yang unik. \n</string>
+    <string name="desc_steak">Nikmati pengalaman makan yang luar biasa dengan Sirloin Steak Pilihan kami. Potongan daging sapi pilihan dipanggang sempurna hingga mencapai tingkat kematangan yang diinginkan. Dengan lapisan luar yang renyah dan pinggiran yang lembut, setiap gigitan akan membawa Anda ke dalam kelezatan yang mendalam.\n\nDihidangkan dengan sentuhan spesial dari bumbu rempah yang eksklusif, steak ini memiliki cita rasa yang kaya dan lembut. Padukan dengan pilihan saus premium kami untuk menambahkan dimensi rasa yang sempurna. Disajikan dengan aneka sayuran segar dan kentang panggang yang lezat, setiap porsi adalah persembahan dari keseimbangan sempurna antara cita rasa klasik dan kesempurnaan modern.</string>
+    <string name="terima_kasi">Terima kasih Richard sudah memesan ditoko kami, pesanan Pepperoni Pizza anda dikirim menggunakan Fast Delivery</string>
+    <string name="notice">Terima kasih Richard sudah memesan ditoko kami, pesanan Pepperoni Pizza anda dikirim menggunakan Fast Delivery\n</string>
+
+
+</resources>
